@@ -116,8 +116,3 @@ streamlit run app.py
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](https://github.com/ahcorataner/translateapp/blob/main/LICENSE) para mais detalhes.
-```
-
----
-
-Se quiser que eu revise o conteúdo final no GitHub depois que subir, é só me chamar. Seu projeto está pronto para impressionar! 💙
