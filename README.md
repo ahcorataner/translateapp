@@ -29,7 +29,7 @@
 
 **TradutorAPP** é uma aplicação web desenvolvida por **Renata Rocha** como parte da disciplina **Desenvolvimento de Sistemas Web** do curso de **Engenharia da Computação** da **Universidade Federal do Maranhão (UFMA)** – período 2025.2.
 
-O objetivo é criar uma ferramenta gratuita que utilize **inteligência artificial** para traduzir documentos extensos com precisão, mantendo o layout original e a formatação visual.
+O objetivo é desenvolver uma aplicação web gratuita que utilize **inteligência artificia**l para realizar a tradução automática de documentos extensos nos formatos **.docx, .pptx e .xlsx**, garantindo a **preservação do layout original, da formatação visual e da estrutura textual.** A ferramenta visa facilitar o trabalho de estudantes, profissionais e pesquisadores que precisam traduzir conteúdos complexos com rapidez, fidelidade e sem perda de estilo.
 
 ---
 
@@ -105,11 +105,11 @@ streamlit run app.py
 ## 👩‍💻 Autora
 
 **Renata Rocha**  
-📧 Email: renata.rocha@ufma.br  
-🔗 GitHub: [@ahcorataner](https://github.com/ahcorataner)  
-🆔 Matrícula: 20240001556  
-🎓 Universidade Federal do Maranhão – UFMA  
-📘 Disciplina: Desenvolvimento de Sistemas Web – 2025.2
+📧 **Email:** renata.rocha@ufma.br  
+🔗 **GitHub:** [@ahcorataner](https://github.com/ahcorataner)  
+🆔 **Matrícula:** 20240001556  
+🎓 **Universidade Federal do Maranhão – UFMA**  
+📘**Disciplina:** Desenvolvimento de Sistemas Web – 2025.2
 
 ---
 
